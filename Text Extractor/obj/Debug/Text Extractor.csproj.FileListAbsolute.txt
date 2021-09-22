@@ -1,0 +1,138 @@
+C:\Users\x\source\repos\Text Extractor\Text Extractor\bin\Debug\Text Extractor.exe.config
+C:\Users\x\source\repos\Text Extractor\Text Extractor\bin\Debug\Text Extractor.exe
+C:\Users\x\source\repos\Text Extractor\Text Extractor\bin\Debug\Text Extractor.pdb
+C:\Users\x\source\repos\Text Extractor\Text Extractor\bin\Debug\Tesseract.dll
+C:\Users\x\source\repos\Text Extractor\Text Extractor\obj\Debug\Text Extractor.csproj.AssemblyReference.cache
+C:\Users\x\source\repos\Text Extractor\Text Extractor\obj\Debug\MainWindow.g.cs
+C:\Users\x\source\repos\Text Extractor\Text Extractor\obj\Debug\Snap.g.cs
+C:\Users\x\source\repos\Text Extractor\Text Extractor\obj\Debug\App.g.cs
+C:\Users\x\source\repos\Text Extractor\Text Extractor\obj\Debug\Text Extractor_MarkupCompile.cache
+C:\Users\x\source\repos\Text Extractor\Text Extractor\obj\Debug\Text Extractor_MarkupCompile.lref
+C:\Users\x\source\repos\Text Extractor\Text Extractor\obj\Debug\MainWindow.baml
+C:\Users\x\source\repos\Text Extractor\Text Extractor\obj\Debug\Snap.baml
+C:\Users\x\source\repos\Text Extractor\Text Extractor\obj\Debug\Text Extractor.g.resources
+C:\Users\x\source\repos\Text Extractor\Text Extractor\obj\Debug\Text_Extractor.Properties.Resources.resources
+C:\Users\x\source\repos\Text Extractor\Text Extractor\obj\Debug\Text Extractor.csproj.GenerateResource.cache
+C:\Users\x\source\repos\Text Extractor\Text Extractor\obj\Debug\Text Extractor.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\Text Extractor\Text Extractor\obj\Debug\Text Extractor.csproj.CopyComplete
+C:\Users\x\source\repos\Text Extractor\Text Extractor\obj\Debug\Text Extractor.exe
+C:\Users\x\source\repos\Text Extractor\Text Extractor\obj\Debug\Text Extractor.pdb
+C:\Users\x\source\repos\Text Extractor\Text Extractor\bin\Debug\x86\liblept1760.dll
+C:\Users\x\source\repos\Text Extractor\Text Extractor\bin\Debug\x86\libtesseract400.dll
+C:\Users\x\source\repos\Text Extractor\Text Extractor\bin\Debug\x64\liblept1760.dll
+C:\Users\x\source\repos\Text Extractor\Text Extractor\bin\Debug\x64\libtesseract400.dll
+C:\Users\x\Desktop\Text Extractor\Text Extractor\obj\Debug\Text Extractor.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\Text Extractor\Text Extractor\obj\Debug\MainWindow.g.cs
+C:\Users\x\Desktop\Text Extractor\Text Extractor\obj\Debug\Snap.g.cs
+C:\Users\x\Desktop\Text Extractor\Text Extractor\obj\Debug\App.g.cs
+C:\Users\x\Desktop\Text Extractor\Text Extractor\obj\Debug\Text Extractor_MarkupCompile.cache
+C:\Users\x\Desktop\Text Extractor\Text Extractor\obj\Debug\Text Extractor_MarkupCompile.lref
+C:\Users\x\Desktop\Text Extractor\Text Extractor\obj\Debug\Text Extractor.exe
+C:\Users\x\Desktop\Text Extractor\Text Extractor\obj\Debug\Text Extractor.pdb
+C:\Users\x\Desktop\Text Extractor\Text Extractor\bin\Debug\x86\liblept1760.dll
+C:\Users\x\Desktop\Text Extractor\Text Extractor\bin\Debug\x86\libtesseract400.dll
+C:\Users\x\Desktop\Text Extractor\Text Extractor\bin\Debug\x64\liblept1760.dll
+C:\Users\x\Desktop\Text Extractor\Text Extractor\bin\Debug\x64\libtesseract400.dll
+C:\Users\x\Desktop\Text Extractor\Text Extractor\bin\Debug\Text Extractor.exe.config
+C:\Users\x\Desktop\Text Extractor\Text Extractor\bin\Debug\Text Extractor.exe
+C:\Users\x\Desktop\Text Extractor\Text Extractor\bin\Debug\Text Extractor.pdb
+C:\Users\x\Desktop\Text Extractor\Text Extractor\bin\Debug\Tesseract.dll
+C:\Users\x\Desktop\Text Extractor\Text Extractor\obj\Debug\MainWindow.baml
+C:\Users\x\Desktop\Text Extractor\Text Extractor\obj\Debug\Snap.baml
+C:\Users\x\Desktop\Text Extractor\Text Extractor\obj\Debug\Text Extractor.g.resources
+C:\Users\x\Desktop\Text Extractor\Text Extractor\obj\Debug\Text_Extractor.Properties.Resources.resources
+C:\Users\x\Desktop\Text Extractor\Text Extractor\obj\Debug\Text Extractor.csproj.GenerateResource.cache
+C:\Users\x\Desktop\Text Extractor\Text Extractor\obj\Debug\Text Extractor.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\Text Extractor\Text Extractor\obj\Debug\Text Extractor.csproj.CopyComplete
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\bin\Debug\x86\liblept1760.dll
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\bin\Debug\x86\libtesseract400.dll
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\bin\Debug\x64\liblept1760.dll
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\bin\Debug\x64\libtesseract400.dll
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\bin\Debug\Text Extractor.exe.config
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\bin\Debug\Text Extractor.exe
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\bin\Debug\Text Extractor.pdb
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\bin\Debug\Tesseract.dll
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\obj\Debug\Text Extractor.csproj.AssemblyReference.cache
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\obj\Debug\MainWindow.g.cs
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\obj\Debug\Snap.g.cs
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\obj\Debug\App.g.cs
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\obj\Debug\Text Extractor_MarkupCompile.cache
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\obj\Debug\Text Extractor_MarkupCompile.lref
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\obj\Debug\MainWindow.baml
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\obj\Debug\Snap.baml
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\obj\Debug\Text Extractor.g.resources
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\obj\Debug\Text_Extractor.Properties.Resources.resources
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\obj\Debug\Text Extractor.csproj.GenerateResource.cache
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\obj\Debug\Text Extractor.csproj.CoreCompileInputs.cache
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\obj\Debug\Text Extractor.csproj.CopyComplete
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\obj\Debug\Text Extractor.exe
+H:\mo\Developement\WPF\Projects\Text Extractor\Text Extractor\obj\Debug\Text Extractor.pdb
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\bin\Debug\x86\liblept1760.dll
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\bin\Debug\x86\libtesseract400.dll
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\bin\Debug\x64\liblept1760.dll
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\bin\Debug\x64\libtesseract400.dll
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\bin\Debug\Text Extractor.exe.config
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\bin\Debug\Text Extractor.exe
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\bin\Debug\Text Extractor.pdb
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\bin\Debug\Tesseract.dll
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\obj\Debug\MainWindow.g.cs
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\obj\Debug\Snap.g.cs
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\obj\Debug\App.g.cs
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor_MarkupCompile.cache
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor_MarkupCompile.lref
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\obj\Debug\MainWindow.baml
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\obj\Debug\Snap.baml
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.g.resources
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\obj\Debug\Text_Extractor.Properties.Resources.resources
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.csproj.GenerateResource.cache
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.csproj.CopyComplete
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.exe
+C:\Users\x\Desktop\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.pdb
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\bin\Debug\x86\liblept1760.dll
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\bin\Debug\x86\libtesseract400.dll
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\bin\Debug\x64\liblept1760.dll
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\bin\Debug\x64\libtesseract400.dll
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\bin\Debug\Text Extractor.exe.config
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\bin\Debug\Text Extractor.exe
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\bin\Debug\Text Extractor.pdb
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\bin\Debug\Tesseract.dll
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\obj\Debug\MainWindow.g.cs
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\obj\Debug\Snap.g.cs
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\obj\Debug\App.g.cs
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor_MarkupCompile.cache
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor_MarkupCompile.lref
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\obj\Debug\MainWindow.baml
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\obj\Debug\Snap.baml
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.g.resources
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\obj\Debug\Text_Extractor.Properties.Resources.resources
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.csproj.GenerateResource.cache
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.csproj.CopyComplete
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.exe
+C:\Users\x\Desktop\New folder (3)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.pdb
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.csproj.AssemblyReference.cache
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\obj\Debug\MainWindow.g.cs
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\obj\Debug\Snap.g.cs
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\obj\Debug\App.g.cs
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor_MarkupCompile.cache
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor_MarkupCompile.lref
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.exe
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.pdb
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\bin\Debug\x86\liblept1760.dll
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\bin\Debug\x86\libtesseract400.dll
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\bin\Debug\x64\liblept1760.dll
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\bin\Debug\x64\libtesseract400.dll
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\bin\Debug\Text Extractor.exe.config
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\bin\Debug\Text Extractor.exe
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\bin\Debug\Text Extractor.pdb
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\bin\Debug\Tesseract.dll
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\obj\Debug\MainWindow.baml
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\obj\Debug\Snap.baml
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.g.resources
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\obj\Debug\Text_Extractor.Properties.Resources.resources
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.csproj.GenerateResource.cache
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\New folder (2)\Text Extractor Full\Text Extractor\obj\Debug\Text Extractor.csproj.CopyComplete
